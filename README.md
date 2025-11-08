@@ -1,6 +1,6 @@
 
 # CommunityClassromm
-- I am Nitin
+- I am Nitin Pratap Singh
 - AI student
 
 
